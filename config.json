@@ -11,7 +11,9 @@
 				"Username": "orders@example.com",
 				"Password": "password"
 			},
-
+			
+	Filter here [???]
+			
 			"Mattermost": {
 				"Server": "https://mattermost.example.com",
 				"Team": "team1",
@@ -20,4 +22,6 @@
 			}
 		}
 	]
+	
+	 Or here Filter [???]
 }
